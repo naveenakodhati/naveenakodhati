@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋 I'm Naveena kodhati
+About Me 
+Ex-Product Engineer at Crediwatch | React.js || React Hooks || Redux || Express.js || Node || Javascript || Python || DSA || Figma ||
 
 <!--
 **naveenakodhati/naveenakodhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
