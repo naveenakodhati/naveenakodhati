@@ -43,5 +43,5 @@ I am expanding my expertise in:
 ## 📫 Let’s Connect  
 
 - Email: **naveenakodhati34@gmail.com**  
-- LinkedIn: (https://www.linkedin.com/in/naveena-kodhati-418084259/)
+- LinkedIn: (https://www.linkedin.com/in/naveena-k-6b3095375/)
 - GitHub: [@naveenakodhati](https://github.com/naveenakodhati)  
